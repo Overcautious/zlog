@@ -1,0 +1,5 @@
+[2022-06-27 00:07:43][thread 24104][trace]this is trace log record, param: 2
+[2022-06-27 00:07:43][thread 24104][debug]this is debug log record, param: 3
+[2022-06-27 00:07:43][thread 24104][info]this is info log record, param: 4
+[2022-06-27 00:07:43][thread 24104][warning]this is warn log record, param: 5
+[2022-06-27 00:07:43][thread 24104][error]this is error log record, param: 6
